@@ -16,10 +16,13 @@
 - 🎬 GIF support for an interactive experience
 
 ## 🎥 Demo GIF
-![App Demo]([https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl](https://github.com/halawy50/Todo-App/releases/download/untagged-c2cd93b64cc05d3a5a22/0000.mp4))
+![App Demo](https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl)
 
 ## 📹 Demo Video
-[🎬 Watch on GitHub](https://github.com/halawy50/Todo-App/releases/download/untagged-c2cd93b64cc05d3a5a22/0000.mp4)
+<video width="100%" controls>
+  <source src="https://github.com/halawy50/Todo-App/releases/download/untagged-c2cd93b64cc05d3a5a22/0000.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## 📥 Setup Instructions
