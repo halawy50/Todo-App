@@ -16,7 +16,7 @@
 - 🎬 GIF support for an interactive experience
 
 ## 📹 Demo Video
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/sKxhVW1QE7A?si=r48CrLVDQ3BY0kz3))
+[![Watch the video](https://img.youtube.com/vi/sKxhVW1QE7A/0.jpg)](https://www.youtube.com/watch?v=sKxhVW1QE7A)
 
 ## 📥 Setup Instructions
 1. Clone the repository:
