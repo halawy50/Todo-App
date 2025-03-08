@@ -15,12 +15,6 @@
 - ✨ Smooth UI animations with Jetpack Compose
 - 🎬 GIF support for an interactive experience
 
-## 🎥 Demo GIF
-![App Demo](https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl)
-
-## 📹 Demo Video
-[![Watch the video](https://img.youtube.com/vi/sKxhVW1QE7A/0.jpg)](https://www.youtube.com/watch?v=sKxhVW1QE7A)
-
 ## 📥 Setup Instructions
 1. Clone the repository:
    ```sh
