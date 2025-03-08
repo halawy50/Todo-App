@@ -16,7 +16,7 @@
 - 🎬 GIF support for an interactive experience
 
 ## 🎥 Demo GIF
-![App Demo](https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl)
+![App Demo]([https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl](https://github.com/user-attachments/assets/540b2fe6-ecbe-40d2-ba77-c9c46d69361d))
 
 ## 📹 Demo Video
 <video width="100%" controls>
