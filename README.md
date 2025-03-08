@@ -16,11 +16,11 @@
 - 🎬 GIF support for an interactive experience
 
 ## 🎥 Demo GIF
-![App Demo](https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl)
+![App Demo]([https://drive.google.com/uc?id=1xhYftCk4SR6bsa3vlowX56KtC2yHvirl](https://github.com/halawy50/Todo-App/releases/download/untagged-c2cd93b64cc05d3a5a22/0000.mp4))
 
 ## 📹 Demo Video
 [🎬 Watch on GitHub](https://github.com/halawy50/Todo-App/releases/download/untagged-c2cd93b64cc05d3a5a22/0000.mp4)
-[![Watch the video](https://img.youtube.com/vi/sKxhVW1QE7A/0.jpg)](https://www.youtube.com/watch?v=sKxhVW1QE7A)
+
 
 ## 📥 Setup Instructions
 1. Clone the repository:
