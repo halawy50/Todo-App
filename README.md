@@ -16,8 +16,7 @@
 - 🎬 GIF support for an interactive experience
 
 ## 📹 Demo Video
-https://github.com/user-attachments/assets/540b2fe6-ecbe-40d2-ba77-c9c46d69361d
-
+https://github.com/user-attachments/assets/87a843bd-61a1-47a9-8cd0-5c90a5f93c9b
 
 ## 📥 Setup Instructions
 1. Clone the repository:
